@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Virtual Coordinator</string>
+    <string name="_detail">Detail</string>
+    <string name="tool1_name">Presentasi</string>
+    <string name="tool1_desc">Aplikasi yg digunakan untuk membuatnya adalah mindomo</string>
+    <string name="tool2_name">Room Meeting</string>
+    <string name="tool2_desc">Webex</string>
+</resources>

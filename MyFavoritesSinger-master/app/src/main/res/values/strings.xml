@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Favorites Singer</string>
+    <string name="card_titles">Card Title</string>
+    <string name="card_descs">Descriptions Singer Profile</string>
+    <string name="arianagande">Ariana Grande</string>
+    <string name="charlieputh">Charlie Puth</string>
+    <string name="selenagomez">Selena Gomez</string>
+    <string name="edsheeren">Ed Sheeran</string>
+    <string name="camilacabello">Camila Cabello</string>
+    <string name="jasonmraz">Jason Mraz</string>
+    <string name="taylorswift">Taylor Swift</string>
+    <string name="demilovato">Demi Lovato</string>
+    <string name="anne_marie">Anne-Marie</string>
+    <string name="beberexha">Bebe Rexha</string>
+    <string name="about">About Me</string>
+    <string name="about_email">adheridwan@live.com</string>
+    <string name="about_name">Adhe Ridwan</string>
+    <string name="about_web">https://www.adhe-story.com</string>
+</resources>

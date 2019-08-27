@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Virtual Coordinator Tools</string>
+    <string name="heroes_name">Apria Ishak</string>
+    <string name="from">Asal</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="description">apriaishakpel@gmail.com</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="data_received">Data_Received</string>
+    <string name="About">about</string>
+</resources>
